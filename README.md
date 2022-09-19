@@ -1,2 +1,2 @@
 # HTML-CSS-BOOTSTRAP
-Ejercicio 9 de HTML, CSS y Bootstrap
+Ejercicio 9 de HTML, CSS y Bootstrap realizado.
